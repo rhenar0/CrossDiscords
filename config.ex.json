@@ -1,0 +1,13 @@
+{
+    "d_token": "",
+    "SERVER_ONE" : {
+      "ID": 6546841355468,
+      "CHANNEL_ID": 68468415354,
+      "WEBHOOK_URL": "https://discord.com/api/webhooks/"
+    },
+    "SERVER_TWO" : {
+      "ID": 903392838409158688,
+      "CHANNEL_ID": 1051959996025421844,
+      "WEBHOOK_URL": "https://discord.com/api/webhooks/"
+    }
+}
